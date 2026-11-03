@@ -4,12 +4,9 @@ Et konsolprogram, der holder styr på en samling film (opret, vis, søg, redigé
 
 ## Gruppe
 
-| Fornavn | GitHub-brugernavn |
-|---------|-------------------|
-| fornavn 1 | github-brugernavn 1 |
-| fornavn 2 | github-brugernavn 2 |
-| fornavn 3 (slet rækken, hvis I er to) | github-brugernavn 3 |
-
+ Navn 
+Amin Mosawi
+Suleiman Mohamud
 ## Sådan kører du programmet
 
 - JDK: skriv den version, I bruger (fx 21)
